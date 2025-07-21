@@ -1,0 +1,1261 @@
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0043
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0182
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0250
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0126
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0568
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0474
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0206
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0183
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0224
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0429
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0182
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0048
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0062
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0486
+ML fix: Anomaly | Score -0.0120
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0060
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0215
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0588
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0035
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0033
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0264
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0327
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0605
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0522
+ML fix: Anomaly | Score -0.0163
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0037
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0298
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0313
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0215
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0141
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0126
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0359
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0500
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0007
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0399
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0064
+ML fix: Anomaly | Score -0.0083
+ML fix: Anomaly | Score -0.0857
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0147
+ML fix: Anomaly | Score -0.0312
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0043
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0222
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0191
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0249
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0220
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0083
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0093
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0074
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0150
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0227
+ML fix: Anomaly | Score -0.0141
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0211
+ML fix: Anomaly | Score -0.0018
+ML fix: Anomaly | Score -0.0019
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0025
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0324
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0046
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0034
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0216
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0333
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0213
+ML fix: Anomaly | Score -0.0568
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0081
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0048
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0163
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0421
+ML fix: Anomaly | Score -0.0093
+ML fix: Anomaly | Score -0.0375
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0081
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0302
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0363
+ML fix: Anomaly | Score -0.0106
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0083
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0480
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0109
+ML fix: Anomaly | Score -0.0077
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0375
+ML fix: Anomaly | Score -0.0339
+ML fix: Anomaly | Score -0.0089
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0227
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0153
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0035
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0432
+ML fix: Anomaly | Score -0.0076
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0155
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0429
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0495
+ML fix: Anomaly | Score -0.0052
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0273
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0317
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0067
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0266
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0148
+ML fix: Anomaly | Score -0.0037
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0124
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0134
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0250
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0285
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0125
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0095
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0009
+ML fix: Anomaly | Score -0.0248
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0096
+ML fix: Anomaly | Score -0.0378
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0123
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0298
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0075
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0158
+ML fix: Anomaly | Score -0.0104
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0051
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0087
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0069
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0194
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0398
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0468
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0092
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0067
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0156
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0148
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0184
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0190
+ML fix: Anomaly | Score -0.0410
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0284
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0451
+ML fix: Anomaly | Score -0.0057
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0158
+ML fix: Anomaly | Score -0.0067
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0041
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0054
+ML fix: Anomaly | Score -0.0254
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0411
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0431
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0008
+ML fix: Anomaly | Score -0.0190
+ML fix: Anomaly | Score -0.0461
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0075
+ML fix: Anomaly | Score -0.0021
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0126
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0044
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0106
+ML fix: Anomaly | Score -0.0246
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0008
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0364
+ML fix: Anomaly | Score -0.0114
+ML fix: Anomaly | Score -0.0136
+ML fix: Anomaly | Score -0.0088
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0019
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0085
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0528
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0046
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0040
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0274
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0472
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0216
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0066
+ML fix: Anomaly | Score -0.0022
+ML fix: Anomaly | Score -0.0428
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0039
+ML fix: Anomaly | Score -0.0184
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0218
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0474
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0173
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0046
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0241
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0203
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0131
+ML fix: Anomaly | Score -0.0098
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0518
+ML fix: Anomaly | Score -0.0054
+ML fix: Anomaly | Score -0.0207
+ML fix: Anomaly | Score -0.0490
+ML fix: Anomaly | Score -0.0039
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0118
+ML fix: Anomaly | Score -0.0352
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0122
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0251
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0141
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0037
+ML fix: Anomaly | Score -0.0026
+ML fix: Anomaly | Score -0.0308
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0081
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0156
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0231
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0038
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0397
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0323
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0017
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0319
+ML fix: Anomaly | Score -0.0276
+ML fix: Anomaly | Score -0.0050
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0369
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0023
+ML fix: Anomaly | Score -0.0145
+ML fix: Anomaly | Score -0.0407
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0141
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0514
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0156
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0289
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0150
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0134
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0390
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0678
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0299
+ML fix: Anomaly | Score -0.0161
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0030
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0059
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0468
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0242
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0205
+ML fix: Anomaly | Score -0.0020
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0067
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0338
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0192
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0104
+ML fix: Anomaly | Score -0.0275
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0003
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0013
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0009
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0183
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0282
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0154
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0076
+ML fix: Anomaly | Score -0.0016
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0067
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0267
+ML fix: Anomaly | Score -0.0201
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0525
+ML fix: Anomaly | Score -0.0390
+ML fix: Anomaly | Score -0.0114
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0147
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0064
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0127
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0147
+ML fix: Anomaly | Score -0.0267
+ML fix: Anomaly | Score -0.0161
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0209
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0058
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0317
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0139
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0088
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0080
+ML fix: Anomaly | Score -0.0285
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0050
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0099
+ML fix: Anomaly | Score -0.0182
+ML fix: Anomaly | Score -0.0113
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0120
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0199
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0035
+ML fix: Anomaly | Score -0.0026
+ML fix: Anomaly | Score -0.0117
+ML fix: Anomaly | Score -0.0045
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0429
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0042
+ML fix: Anomaly | Score -0.0063
+ML fix: Anomaly | Score -0.0090
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0337
+ML fix: Anomaly | Score -0.0256
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0337
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0167
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0170
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0177
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0015
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0233
+ML fix: Anomaly | Score -0.0632
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0137
+ML fix: Anomaly | Score -0.0383
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0012
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0244
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0316
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0300
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0306
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0160
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0031
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0234
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0115
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0073
+ML fix: Anomaly | Score -0.0203
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0037
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0040
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0474
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0294
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0070
+ML fix: Anomaly | Score -0.0122
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0045
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0060
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0045
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0004
+ML fix: Anomaly | Score -0.0032
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0290
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0044
+ML fix: Anomaly | Score -0.0376
+ML fix: Anomaly | Score -0.0450
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0048
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0045
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0143
+ML fix: Anomaly | Score -0.0156
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0406
+ML fix: Anomaly | Score -0.0233
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0105
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0319
+ML fix: Anomaly | Score -0.0089
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0194
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0225
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0414
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0266
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0160
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0319
+ML fix: Anomaly | Score -0.0234
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0374
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0042
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0264
+ML fix: Anomaly | Score -0.0374
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0639
+ML fix: Anomaly | Score -0.0457
+ML fix: Anomaly | Score -0.0557
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0248
+ML fix: Anomaly | Score -0.0482
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0233
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0255
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0001
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0100
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0029
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0052
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0111
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0128
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0141
+ML fix: Anomaly | Score -0.0105
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0293
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0624
+ML fix: Anomaly | Score -0.0060
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0002
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0043
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0419
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0170
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0028
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0259
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0245
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0247
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0112
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0220
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0467
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0011
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0326
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0041
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0223
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0488
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0004
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0191
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0004
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0006
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0407
+ML fix: Anomaly | Score -0.0034
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0095
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0005
+ML fix: Anomaly | Score -0.0054
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0193
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0090
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0313
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0242
+ML fix: Anomaly | Score -0.0495
+ML fix: Anomaly | Score -0.0029
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0214
+ML fix: Anomaly | Score -0.0096
+ML fix: Anomaly | Score -0.0515
+ML fix: Anomaly | Score -0.0040
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0475
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0150
+ML fix: Anomaly | Score -0.0143
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0368
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0032
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0495
+ML fix: Anomaly | Score -0.0464
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0106
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0199
+ML fix: Anomaly | Score -0.0107
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0497
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0503
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0135
+ML fix: Anomaly | Score -0.0139
+ML fix: Anomaly | Score -0.0085
+ML fix: Anomaly | Score -0.0285
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0032
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0771
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0058
+ML fix: Anomaly | Score -0.0201
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0104
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0424
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0265
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0041
+ML fix: Anomaly | Score -0.0039
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0667
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0219
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0225
+ML fix: Anomaly | Score -0.0237
+ML fix: Anomaly | Score -0.0242
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0162
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0008
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0089
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0361
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0372
+ML fix: Anomaly | Score -0.0402
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0141
+ML fix: Anomaly | Score -0.0061
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0140
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0308
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0234
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0145
+ML fix: Anomaly | Score -0.0394
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0754
+ML fix: Anomaly | Score -0.0321
+ML fix: Anomaly | Score -0.0314
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0253
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0079
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0225
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0385
+ML fix: Anomaly | Score -0.0450
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0067
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0492
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0096
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0386
+ML fix: Anomaly | Score -0.0151
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0340
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0305
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0079
+ML fix: Anomaly | Score -0.0057
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0019
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0291
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+ML fix: Anomaly | Score -0.0245
+Threshold fix: RAM spike
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+ML fix: Anomaly | Score -0.0250
+Threshold fix: CPU overload
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0243
+Threshold fix: CPU overload
+Threshold fix: RAM spike
+Threshold fix: Disk warning
+ML fix: Anomaly | Score -0.0315
+Threshold fix: Disk warning
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
+Threshold fix: CPU overload
