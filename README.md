@@ -1,7 +1,6 @@
 AI RMM Solution
 
-An intelligent Remote Monitoring and Management (RMM) system designed to automate the health monitoring of devices using real-time analytics and machine learning. 
-This project leverages Flask for its web interface, psutil for system metrics, and scikit-learn for anomaly detection.
+An intelligent Remote Monitoring and Management (RMM) system designed to automate the monitoring of devices using real-time analytics and machine learning. 
 
 - Machine learning-based anomaly detection
 - Real-time CPU and memory usage visualization
